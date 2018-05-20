@@ -1,0 +1,33 @@
+body {
+  text-align: start;
+}
+
+.writer.main-container {
+  background-color: #fff;
+}
+
+.pure-button-primary {
+  background-color: #333;
+}
+
+.create-user {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.create-post-buttons {
+  margin-top: 20px;
+}
+
+.button-success {
+  color: white;
+  background: rgb(28, 184, 65);
+}
+
+.nav {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
