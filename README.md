@@ -4,7 +4,7 @@ Set of React components which you can use for creating a simple example blog app
 
 ## Installation
 
-`yarn add react-components` or `npm install react-components`
+`yarn add blog-components` or `npm install blog-components`
 
 ## Components
 
